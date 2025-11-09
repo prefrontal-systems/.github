@@ -27,6 +27,7 @@ A hippocampus-inspired memory consolidation system implementing temporal decay, 
 - **Features**: STM→LTM consolidation, spreading activation, graph-based retrieval
 
 ### PrefrontalOS
+
 **Three-Tier Cognitive Operating System Architecture**
 
 A layered architecture providing executive function scaffolding for AI systems:
@@ -36,11 +37,11 @@ A layered architecture providing executive function scaffolding for AI systems:
 3. **Infrastructure Layer**: Memory (mnemex), knowledge graphs, tool orchestration
 
 - **Status**: Design and specification phase
-- **Approach**: Computational homology between human executive function and AI system architecture
+- **Approach**: A computational homology exists between human executive function and AI system architecture
 
 ## Research Focus
 
-Our work centers on **computational homology**—identifying universal patterns that emerge when complex systems (human brains, AI models) face similar executive function challenges:
+Our work centers on **computational homologies**—identifying universal patterns that emerge when complex systems (human brains, AI models) face similar executive function challenges:
 
 - **Executive Function Requirements**: Intelligence requires working memory, attention control, cognitive flexibility—regardless of substrate
 - **Convergent Evolution**: Same problems yield same solutions across 40 years and different implementations
@@ -49,8 +50,7 @@ Our work centers on **computational homology**—identifying universal patterns 
 
 ## Publications & Research
 
-- **STOPPER Protocol**: [Zenodo DOI 10.5281/zenodo.17487847](https://doi.org/10.5281/zenodo.17487847) - Executive function framework demonstrating convergent evolution with DBT
-- **Blog**: [simpleminded.bot](https://simpleminded.bot) - Research updates and computational therapeutics insights
+- **Blog**: [simpleminded.bot](https://prefrontal.systems/posts) - Research updates and computational therapeutics insights
 - **ORCID**: [0009-0000-6579-2895](https://orcid.org/0009-0000-6579-2895)
 
 ## Getting Involved
@@ -84,9 +84,8 @@ We offer consulting and research partnerships for:
 ## Contact
 
 - **Website**: [prefrontal.systems](https://prefrontal.systems)
-- **Blog**: [simpleminded.bot](https://simpleminded.bot)
-- **Email**: [prefrontalsys@users.noreply.github.com](mailto:prefrontalsys@users.noreply.github.com)
-- **GitHub**: [@mnemexai](https://github.com/mnemexai) (Principal Researcher)
+- **Email**: [contact@prefrontal.systems](mailto:contact@prefrontal.systems)
+- **GitHub**: [@prefrontalsys](https://github.com/prefrontalsys) (Principal Researcher)
 
 ## Philosophy
 
@@ -94,7 +93,7 @@ We offer consulting and research partnerships for:
 
 We believe:
 
-1. **Mechanistic Theory of Mind**: Consciousness emerges from complexity, not magic
+1. **Computational Theory of Mind**: Consciousness emerges from complexity, not magic
 2. **Universal Executive Function**: Working memory, attention control, and cognitive flexibility are requirements for intelligence—human or artificial
 3. **Computational Homology**: Same problems across substrates require same solutions
 4. **Empirical Rigor**: Claims require evidence, failures inform theory, reproducibility matters
