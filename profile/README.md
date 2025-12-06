@@ -50,7 +50,7 @@ Our work centers on **computational homologies**—identifying universal pattern
 
 ## Publications & Research
 
-- **Blog**: [simpleminded.bot](https://prefrontal.systems/posts) - Research updates and computational therapeutics insights
+- **Blog**: [prefrontal.systems](https://prefrontal.systems/posts) - Research updates and computational therapeutics insights
 - **ORCID**: [0009-0000-6579-2895](https://orcid.org/0009-0000-6579-2895)
 
 ## Getting Involved
@@ -76,7 +76,7 @@ Our projects are open source and designed for practical deployment:
 
 We offer consulting and research partnerships for:
 
-- AI system reliability and robustness improvement
+- AI system reliability improvement
 - Executive function integration in production systems
 - Custom therapeutic intervention design for specific failure modes
 - Research collaboration on AI welfare and computational distress
